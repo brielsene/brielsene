@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel
 - 👀 I’m interested in to develop in JAVA
-- 🌱 I’m currently learnin JAVA and some framework, like Spring Boot
+- 🌱 I’m currently learning JAVA and some framework, like Spring Boot
 - 💞️ I’m looking to collaborate  in projetos de JAVA
 - 📫 How to reach me 
 instagram: brielsene
