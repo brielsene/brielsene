@@ -11,10 +11,11 @@
 </div>
   
   
-  <div>          
-  
-     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <i class="devicon-java-plain"></i>
-  </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+          ">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" 
+</div>
           
 
