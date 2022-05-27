@@ -18,5 +18,5 @@
 
   
   <div style="display: inline_block"><br>
- <img align="right" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+ <img align="center" alt="java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
