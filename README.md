@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Gabriel
-- 👀 I’m interested in to develop in JAVA
-- 🌱 I’m currently learning JAVA and some framework, like Spring Boot
-- 💞️ I’m looking to collaborate  in projetos de JAVA
-- 📫 How to reach me 
-instagram: brielsene
-<!---
-brielsene/brielsene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+
+- 👋 Olá, sou o Gabriel
+- 👀 Estudando atualmente frameworks de JAVA
+- 🌱 Atualmente Trabalho com Segurança da Informação
+
+<div align="center">
+  <a href="https://github.com/brielsene">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brielsene&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielsene&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
