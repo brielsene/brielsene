@@ -5,11 +5,11 @@
 - 🌱 Atualmente Trabalho com Segurança da Informação
 
 <div>
-  <center>
+  
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gabriel-sene-0a8548206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  </center
+  
 </div>
 <br>
 
