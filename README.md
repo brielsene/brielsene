@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/gabriel-sene-0a8548206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"   />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+<br>
 
 <div align="center">
   <a href="https://github.com/brielsene">
