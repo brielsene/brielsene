@@ -1,7 +1,7 @@
 ##
 
 - 👋 Olá, sou o Gabriel
-- 👀 Estudando atualmente frameworks de JAVA
+- 👀 Estudando atualmente frameworks de JAVA, e também React Native (FrontEnd)
 - 🌱 Atualmente Trabalho com Segurança da Informação
 
 <div>
