@@ -1,8 +1,10 @@
 ##
 
-- 👋 Olá, sou o Gabriel
-- 👀 Estudando atualmente frameworks de JAVA, e também aprimorarando a parte de POO e integração de Banco de Dados
-- 🌱 Atualmente Trabalho com Segurança da Informação
+-  Olá, sou o Gabriel
+-  Atualmente estudando framework de Java.
+-  Domino Lógica de programação, POO, Java 8, Java Servlets com Apache Tomcat, Padrão MVC, Integração MYSQL com Java(JDBC).
+
+
 
 <div>
   
