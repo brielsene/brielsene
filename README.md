@@ -2,7 +2,7 @@
 
 -  Olá, sou o Gabriel
 -  Atualmente estudando framework de Java.
--  Domino Lógica de programação, POO, Java 8, Java Servlets com Apache Tomcat, Padrão MVC, Integração MYSQL com Java(JDBC), JPA e Hibernate.
+-  Domino Lógica de programação, POO, Java 8, Java Servlets com Apache Tomcat, Padrão MVC, Integração MYSQL com Java(JDBC), JPA e Hibernate, Spring DATA JPA e Spring Boot
 
 
 
