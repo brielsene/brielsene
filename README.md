@@ -37,13 +37,6 @@ Minhas Skills
   </a>
 </div>
 
-## Linguagens Mais Utilizadas
-
-<div align="center">
-  <a href="https://github.com/brielsene">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielsene&layout=compact&theme=dark&langs_count=8&hide=go" />
-  </a>
-</div>
 
 
 
