@@ -17,12 +17,14 @@ Minhas Skills
 ## Minhas Habilidades
 
 - Java
+- Go Lang
 - Java Servlets
 - JPA e Hibernate
 - Spring Boot
 - Spring Security
 - Spring Cloud
 - MySQL
+- PostgreSQL
 - Docker
 - Maven
 - GitHub
